@@ -2,12 +2,21 @@
 
 
 ## Toronto
-- CN Tower
+- [CN Tower](https://www.cntower.ca/plan-your-visit/tickets-and-hours/hours)\
+  - 9:30 am - 9 pm
+  - Ticket: Timed General Admission + The top: $56
 - Harbourfront: Walk along the waterfront, visit parks and cafes (by CN Tower)
-- Royal Ontario Museum (ROM): Explore one of the largest museums in North America.
+  - Toronto Railway Museum located inside the park, 12:00-5:00pm daily, $14 if interested
+- [Royal Ontario Museum (ROM)](https://www.rom.on.ca/): Explore one of the largest museums in North America.
+  - 10:00 - 5:00 PM TU-SUN. Closed on Monday
+  - $25
 - [Casa Loma](https://casaloma.ca/): A beautiful Gothic Revival style mansion with lovely gardens. 
   - 9:30 - 5 daily
+  - $40 
   - ~2h self-guided
+- [Ripley's Aquarium of Canada](https://www.ripleys.com/attractions/ripleys-aquarium-of-canada)
+  - 9:00 am - 11:00 pm
+  - $50
 - Distillery District, known for its historic buildings and artsy vibe.
 - St. Lawrence Market
 - Kensington Market: Discover eclectic shops and cafes in this multicultural neighborhood.

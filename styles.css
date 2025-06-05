@@ -1,0 +1,75 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f0f4f8;
+  color: #333;
+}
+
+header {
+  background: #0077cc;
+  color: white;
+  padding: 1.5em 0;
+  text-align: center;
+}
+
+.container {
+  max-width: 900px;
+  margin: 2em auto;
+  padding: 0 1em;
+}
+
+h2 {
+  color: #0077cc;
+}
+
+.trip {
+  background: white;
+  border-left: 5px solid #0077cc;
+  margin: 2em 0;
+  padding: 1.5em;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.date {
+  font-weight: bold;
+  color: #555;
+  margin-bottom: 0.5em;
+}
+
+.attractions {
+  margin-top: 1em;
+  padding-left: 1em;
+}
+
+.attraction {
+  margin-bottom: 1em;
+}
+
+.attraction-name {
+  font-weight: bold;
+  font-size: 1.05em;
+  margin-bottom: 0.2em;
+}
+
+.detail-line {
+  border-bottom: 1px dotted #aaa;
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.95em;
+  padding: 0.2em 0;
+  color: #555;
+}
+
+.footer {
+  text-align: center;
+  padding: 1em;
+  font-size: 0.9em;
+  color: #777;
+}
+
+.description {
+  font-size: 0.95em;
+  margin-bottom: 0.4em;
+  color: #666;
+}
